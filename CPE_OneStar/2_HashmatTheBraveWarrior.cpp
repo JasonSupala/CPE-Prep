@@ -8,4 +8,6 @@ int main(){
     while(cin >> a >> b){
         cout << llabs(b-a) << endl;
     }
+
+    return 0;
 }
